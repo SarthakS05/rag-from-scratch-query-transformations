@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-openai
+langchainhub
+chromadb
+tiktoken
+beautifulsoup4
+numpy
